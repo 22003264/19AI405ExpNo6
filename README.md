@@ -1,3 +1,4 @@
+
 <h1>ExpNo 6 : Implement Minimax Search Algorithm for a Simple TIC-TAC-TOE Game</h1> 
 <h3>Name:ONTEDDU SIRISHA</h3>
 <h3>Register Number: 212222230103</h3>
@@ -100,7 +101,6 @@ def minimax(game)
         @choice = moves[min_score_index]
         return scores[min_score_index]
     end
-end
 
 <h2>Program </h2>
 
